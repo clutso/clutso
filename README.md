@@ -1,3 +1,4 @@
+<img src="Think outside the box.gif" alt="Think outside the box">
 <h1 align="center">Hi there 👋 </h1>
 
 <p>
